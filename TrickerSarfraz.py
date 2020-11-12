@@ -48,16 +48,16 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;96m╔═══╗─────╔═╗
-\033[0;95m║╔═╗║─────║╔╝
-\033[0;94m║╚══╦══╦═╦╝╚╦═╦══╦═══╗
-\033[0;93m╚══╗║╔╗║╔╩╗╔╣╔╣╔╗╠══║║
+\033[0;92m╔═══╗─────╔═╗
+\033[0;92m║╔═╗║─────║╔╝
+\033[0;92m║╚══╦══╦═╦╝╚╦═╦══╦═══╗
+\033[0;92m╚══╗║╔╗║╔╩╗╔╣╔╣╔╗╠══║║
 \033[0;92m║╚═╝║╔╗║║─║║║║║╔╗║║══╣
-\033[0;91m╚═══╩╝╚╩╝─╚╝╚╝╚╝╚╩═══╝
-──────────────\033[0;97m────────────────────────────────────────────────────────────────────────────────────────────────────────
-\033[0;94m  ~  ᶜʳeaᵗeᵈ ᴮʸ  ✪ Sarfraz     ~
-\033[0;94m  ~  ʸouᵗuᵇe ✪ Fb Tips & Tricks ~
-\033[0;97m  ~  ᴵ ᴬᴹ ᴺᴼᵀ ᴿᴱˢᴾᴼᴺˢᴵᴮᴸᴱ ᶠᴼᴿ ᴬᴺʸ ᴹᴵˢˢ ᵁˢᴱ ~
+\033[0;92m╚═══╩╝╚╩╝─╚╝╚╝╚╝╚╩═══╝
+──────────────\033[0;95m────────────────────────────────────────────────────────────────────────────────────────────────────────
+\033[0;97m  ~  ᶜʳeaᵗeᵈ ᴮʸ  ✪ Sarfraz     ~
+\033[0;94m  ~  ʸouᵗuᵇe ✪ Sarfraz The Tricker ~
+\033[0;94m  ~  ᴵ ᴬᴹ ᴺᴼᵀ ᴿᴱˢᴾᴼᴺˢᴵᴮᴸᴱ ᶠᴼᴿ ᴬᴺʸ ᴹᴵˢˢ ᵁˢᴱ ~
 ••••••░░░░░░░░░░░░░░░░•••••• """                                         
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -78,12 +78,12 @@ os.system("clear")
 print ( """
       •••••••░░░░░░░░░░░░░░░░••••••
       ••••••░ ░ ░ ░ B.A.D.S.H.A.H ░ ░ ░••••••
-      ••••••░  ░ ░ ░RDX~001░ ░ ░•••••••••
-      •••░ ░ ░ ░A•N•O•N•Y•M•U•S░ ░••••••••
+      ••••••░  ░ ░ ░B.R.A.N.D░ ░ ░•••••••••
+      •••░ ░ ░ ░MANDI BAHAUDDIN ALY ░ ░••••••••
       •••••░░░░░░░░░░░░░░░░•••••••••""")
 
-CorrectUsername = "badshah"
-CorrectPassword = "badshah"
+CorrectUsername = "Sarfraz"
+CorrectPassword = "Tricker"
 
 loop = 'true'
 while (loop == 'true'):
@@ -96,10 +96,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCv_YdNL-zlmFAGL0rqUOuvg')
+            os.system('xdg-open https://www.youtube.com/channel/UCxpn9x81zL07IWbsvUWyiBA')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCv_YdNL-zlmFAGL0rqUOuvg')
+        os.system('xdg-open https://www.youtube.com/channel/UCxpn9x81zL07IWbsvUWyiBA')
 
 def login():
 	os.system('clear')
@@ -193,7 +193,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;36;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ••••••░░░░░░░░░░░░░░░░░░░░░░░░░░░░••••••"
 	print "\033[1;32;40m[1] \033[1;33;41mStart Cloning"	
-	print "\033[1;32;40m[2] \033[1;33;42mUpdate Ahmad"																														
+	print "\033[1;32;40m[2] \033[1;33;42mUpdate Sarfraz The Tricker"																														
 	print "\033[1;32;40m[0] \033[1;33;43mLog out"
 	pilih()
 	
